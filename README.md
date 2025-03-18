@@ -47,7 +47,7 @@ Learning & Growth
 
 ## Power BI
 
-### [Tourism Project](https://app.powerbi.com/groups/me/reports/282ca596-6e76-4866-aaf5-9500b6c83f00/545f96081c01e1992043?experience=power-bi)  
+### [Tourism Project](https://github.com/MsheikhDTA/PowerBi---Tourism-project)  
 This project explores a tourism dataset to uncover analytical insights, including:  
 - Employment trends in tourism-related industries  
 - CO2 emissions per capita from aviation  
@@ -55,7 +55,7 @@ This project explores a tourism dataset to uncover analytical insights, includin
 
 **Technologies Used:** Power BI Desktop, Fabric (Power BI web publishing), Excel (CSV data sources)  
 
-### [Adventure Works](https://app.powerbi.com/groups/me/reports/1160b9db-f0fe-4ab0-8a0a-725c84310753/ReportSection?experience=power-bi)  
+### [Adventure Works](https://github.com/MsheikhDTA/PowerBi---Adventure-Works)
 This project analyzes the business performance and financial earnings of the retail company, Adventure Works.  
 
 **Technologies Used:** Power BI Desktop, Fabric (Power BI web publishing), SQL (database updates), Excel (CSV data sources)  
@@ -64,7 +64,7 @@ This project analyzes the business performance and financial earnings of the ret
 
 ## Tableau  
 
-### [UK Employment](YOUR_PROJECT_LINK)  
+### [UK Employment](https://github.com/MsheikhDTA/Tableau---UK-Employment)  
 This project examines the UK's employment sector in 2011 and 2014, presenting visual insights on:  
 - Net job changes  
 - Industry growth rates  
