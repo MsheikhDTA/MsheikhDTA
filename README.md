@@ -89,7 +89,7 @@ This project consists of SQL exercises aimed at strengthening data analysis skil
 
 **Technologies Used:** MySQL Workbench 8.0 CE  
 
-### [World DB](YOUR_PROJECT_LINK)  
+### [World DB](https://github.com/MsheikhDTA/MySQL-World-db)  
 Analyzing the widely known World database, this project explores:  
 - Population density across countries  
 - Comparative population statistics  
