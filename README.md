@@ -123,7 +123,7 @@ This project examines GDP per capita across different countries, applying Explor
 
 ## Microsoft Excel  
 
-### [Retail Sales Dataset](YOUR_PROJECT_LINK)  
+### [Retail Sales Dataset](https://github.com/MsheikhDTA/Excel---Retail)  
 This project analyzes a retail business dataset to uncover insights that can help improve business performance.  
 
 **Technologies Used:** Microsoft Excel  
