@@ -81,7 +81,7 @@ This project visualizes global health indicators from 1990 to 2008, highlighting
 
 ## MySQL  
 
-### [SQL Training](YOUR_PROJECT_LINK)  
+### [SQL Training](https://github.com/MsheikhDTA/MySQL-Training)  
 This project consists of SQL exercises aimed at strengthening data analysis skills, covering:  
 - Database creation and data population  
 - Table joins and relationship building  
