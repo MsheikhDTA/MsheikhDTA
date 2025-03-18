@@ -43,60 +43,99 @@ Learning & Growth
 
 ## Projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 
-### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+## Power BI
 
-### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+### [Tourism Project](YOUR_PROJECT_LINK)  
+This project explores a tourism dataset to uncover analytical insights, including:  
+- Employment trends in tourism-related industries  
+- CO2 emissions per capita from aviation  
+- Average tourist expenditures  
 
-### Tableau
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+**Technologies Used:** Power BI Desktop, Fabric (Power BI web publishing), Excel (CSV data sources)  
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
+### [Adventure Works](YOUR_PROJECT_LINK)  
+This project analyzes the business performance and financial earnings of the retail company, Adventure Works.  
 
-### MySQL
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+**Technologies Used:** Power BI Desktop, Fabric (Power BI web publishing), SQL (database updates), Excel (CSV data sources)  
 
-### Python and Pandas
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+---
 
-### DP900
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
+## Tableau  
 
-### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+### [UK Employment](YOUR_PROJECT_LINK)  
+This project examines the UK's employment sector in 2011 and 2014, presenting visual insights on:  
+- Net job changes  
+- Industry growth rates  
+- Job market contributions  
 
+**Technologies Used:** Tableau Public, Excel (CSV data sources)  
 
+### [World Health Data](YOUR_PROJECT_LINK)
+This project visualizes global health indicators from 1990 to 2008, highlighting key analytical findings.  
 
+**Technologies Used:** Tableau Public, Excel (CSV data sources)  
 
+---
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at md24s@hotmail.com
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating on Health Economics, Healthcare projects
+## MySQL  
+
+### [SQL Training](YOUR_PROJECT_LINK)  
+This project consists of SQL exercises aimed at strengthening data analysis skills, covering:  
+- Database creation and data population  
+- Table joins and relationship building  
+- Data aggregation for insightful queries  
+
+**Technologies Used:** MySQL Workbench 8.0 CE  
+
+### [World DB](YOUR_PROJECT_LINK)  
+Analyzing the widely known World database, this project explores:  
+- Population density across countries  
+- Comparative population statistics  
+- City and country GDP per capita  
+
+**Technologies Used:** MySQL Workbench 8.0 CE  
+
+---
+
+## Python & Pandas  
+
+### [Python Training](YOUR_PROJECT_LINK)  
+This project features Python exercises designed to enhance data analysis skills, focusing on:  
+- Fundamental Python concepts (if statements, operators, data types)  
+- Indexing structures (lists, tuples, sets, dictionaries)  
+- Data manipulation with loops  
+- Data handling using Pandas, including cleaning and exploration  
+- Visualization techniques with Matplotlib and Seaborn  
+
+**Technologies Used:** Google Colab, Pandas, Matplotlib, Seaborn, Excel (CSV data sources)  
+
+### [GDP per Capita](YOUR_PROJECT_LINK)  
+This project examines GDP per capita across different countries, applying Exploratory Data Analysis techniques such as:  
+- Comparing IMF and World Bank estimates  
+- Data cleaning and validation  
+- Visualizing insights through correlation heatmaps, scatter plots, and histograms  
+
+**Technologies Used:** Google Colab, Pandas, Matplotlib, Seaborn, Excel (CSV data sources)  
+
+---
+
+## Microsoft Excel  
+
+### [Retail Sales Dataset](YOUR_PROJECT_LINK)  
+This project analyzes a retail business dataset to uncover insights that can help improve business performance.  
+
+**Technologies Used:** Microsoft Excel  
+
+---
+
+## About Me  
+
+🌍 Based in **London**  
+✉️ Contact me at **md24s@hotmail.com**  
+🧠 Currently learning **Pandas**  
+🤝 Open to collaborating on **Data Analytical projects** across various industries
 
 ### Skills
 
