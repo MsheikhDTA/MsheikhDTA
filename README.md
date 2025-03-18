@@ -47,7 +47,7 @@ Learning & Growth
 
 ## Power BI
 
-### [Tourism Project](YOUR_PROJECT_LINK)  
+### [Tourism Project](https://app.powerbi.com/groups/me/reports/282ca596-6e76-4866-aaf5-9500b6c83f00/545f96081c01e1992043?experience=power-bi)  
 This project explores a tourism dataset to uncover analytical insights, including:  
 - Employment trends in tourism-related industries  
 - CO2 emissions per capita from aviation  
@@ -55,7 +55,7 @@ This project explores a tourism dataset to uncover analytical insights, includin
 
 **Technologies Used:** Power BI Desktop, Fabric (Power BI web publishing), Excel (CSV data sources)  
 
-### [Adventure Works](YOUR_PROJECT_LINK)  
+### [Adventure Works](https://app.powerbi.com/groups/me/reports/1160b9db-f0fe-4ab0-8a0a-725c84310753/ReportSection?experience=power-bi)  
 This project analyzes the business performance and financial earnings of the retail company, Adventure Works.  
 
 **Technologies Used:** Power BI Desktop, Fabric (Power BI web publishing), SQL (database updates), Excel (CSV data sources)  
